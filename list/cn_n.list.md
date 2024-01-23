@@ -1,17 +1,18 @@
-# List for **China National**
+# List for **epg.pw China National**
 
 > M3U: [cn_n.m3u](/cn_n.m3u), TXT: [cn_n.txt](/txt/cn_n.txt)
 
-| No.  | Channel Name | Source |
-| --- | ------------ | --- |
-| 1 | [HD]cctv-4中文国际 | [HD cctv-4中文国际](https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8) |
-| 2 | [SD]cctv-4中文国际 | [SD cctv-4中文国际](https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8) |
-| 3 | [BD]cctv女性时尚[ipv6] | [BD cctv女性时尚 ipv6](https://epg.pw/stream/fe8b30a1c7e5156f844801fd71e5df52d089e315fb1ee961c73f7cbd8e6d57bf.m3u8) |
-| 4 | [BD]cctv风云足球[ipv6] | [BD cctv风云足球 ipv6](https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8) |
-| 5 | [BD]cctv风云音乐[ipv6] | [BD cctv风云音乐 ipv6](https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8) |
-| 6 | [BD]cctv8k超高清[ipv6] | [BD cctv8k超高清 ipv6](https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8) |
-| 7 | [BD]发现之旅 | [BD 发现之旅](https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv) |
-| 8 | [BD]石狮综合 | [BD 石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
-| 9 | [BD]风云足球[ipv6] | [BD 风云足球 ipv6](https://epg.pw/stream/2f15d1c8f0acaa40abcbf0b5cab1d4011bf75bd775e650078108a7354dbf9dc0.m3u8) |
+| No. | Channel Name | From | Source |
+| --- | ------------ | ---- | ------ |
+| 1 | [VGA]cctv戏曲 | epg.pw | <https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv> |
+| 2 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8> |
+| 3 | [SD]cctv-4中文国际 | epg.pw | <https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8> |
+| 4 | [VGA]cctv娱乐 | epg.pw | <https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv> |
+| 5 | [BD]cctv风云剧场[ipv6] | epg.pw | <https://epg.pw/stream/1ad3ab34bf104d76e33b1b6a17fab80a074fcfa402c9d983ca9c21e892208d18.m3u8> |
+| 6 | [BD]cctv风云足球[ipv6] | epg.pw | <https://epg.pw/stream/2e8d029df5d70137c1c69e2a1816bbc1acfd3b94abac883b0cb3513b2d19e923.m3u8> |
+| 7 | [BD]cctv风云音乐[ipv6] | epg.pw | <https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8> |
+| 8 | [BD]cctv8k超高清[ipv6] | epg.pw | <https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8> |
+| 9 | [BD]中国交通 | epg.pw | <https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv> |
+| 10 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 
-Updated at **Mon Dec 25 2023 04:11:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 23 2024 04:32:04 GMT+0000 (Coordinated Universal Time)**
